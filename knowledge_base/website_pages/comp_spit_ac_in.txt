@@ -1,0 +1,33 @@
+## Department of Computer Engineering
+## Computer Engineering @ S.P.I.T.
+The Department of Computer Engineering was established in the year 1995 and it is one of the earliest departments of the Institute. The department consists of 20+ faculty members, 3 technical assistants and around 450+ students working towards their Bachelors’, Masters’ and Doctoral degrees. The department attracts high quality students from all over Maharashtra and also from the country and has an impressive placement record and results. Many of the graduates choose to join some of the best institutions of higher learning around the world, whereas some prefer to gain a few years of work experience before deciding their next course of action. Still some others choose to chase their dream by opening their own start-ups, joining government firms and so on. Strong placements and results, highly qualified staff and laboratory facilities, research publications are some of the strengths of the department. Department has also received accreditation from the National Board Accreditation. In the recent past, we had benchmarked our curriculum with select institutions of higher learning around the world and currently we are carefully reviewing the impact of these consequent changes with a view to make our programs even more strong and competitive. Department also attracts the interaction with the IT industries to provide training to the students.
+Key Areas of Study:
+The curriculum is designed to cover several key areas:
+Data Structure & Algorithms: Focusing on the fundamental concepts in
+computer science that enable efficient data storage, retrieval, and manipulation.
+Provide knowledge of data structures and algorithms that is essential for solving
+computational problems efficiently.
+DBMS: Focus on database management system which is an organized
+framework to structure, secure, and manage data, making it accessible to users
+and applications.
+Networking and Security: Teaching the principles of communication networks,
+data security, and cybersecurity challenges.
+Software Engineering: Providing the knowledge to develop efficient, reliable,
+and scalable software systems.
+Artificial Intelligence and Machine Learning: Introducing students to AI, data
+processing, and machine learning techniques for solving complex real-world
+problems.
+Distributed Systems & Cloud Computing: Teach computing model where
+computational tasks are divided among multiple interconnected computers or
+nodes that collaborate to complee a task. Students get exposure to computing
+paradigm that delivers computing resources (such as processing power, storage,
+and applications) over the internet.
+Research and Innovation:
+The Computer Engineering Department emphasizes research in emerging areas such
+as:
+Artificial Intelligence & Machine Learning
+Cloud Computing
+Blockchain Technology
+Networking & Security
+Faculty and students are encouraged to collaborate on innovative projects, pushing the
+boundaries of technology and contributing to global advancements.

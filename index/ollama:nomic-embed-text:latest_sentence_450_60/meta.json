@@ -1,0 +1,7 @@
+{
+  "embed_model": "ollama:nomic-embed-text:latest",
+  "strategy": "sentence",
+  "chunk_tokens": 450,
+  "overlap": 60,
+  "n_chunks": 255
+}

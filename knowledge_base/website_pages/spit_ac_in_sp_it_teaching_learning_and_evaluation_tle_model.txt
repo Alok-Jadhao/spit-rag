@@ -1,0 +1,29 @@
+## SP-IT Teaching, Learning, and Evaluation (TLE) Model: «  Sardar Patel Institute of Technology
+## SP-IT Teaching, Learning, and Evaluation (TLE) Model:
+Outcome-Based Education System Overview
+## Session 1:
+## This session introduces SP-IT, the concept of academic autonomy, and the philosophy of Outcome-Based Education (OBE) from both student and faculty perspectives. It covers SP-IT’s vision, mission, and foundational elements of OBE, such as:
+Graduate Attributes
+Learning Objectives (BL1-6)
+Program Educational Objectives (PEO1-4)
+Course Outcomes (CO1-6)
+Program Specific Outcomes (PSO1-2)
+Program Outcomes (PO1-12)
+Watch the full session here:Session 1
+## Session 2:
+## This session defines OBE as a student-centered teaching methodology. In an OBE framework, course delivery and assessment are aligned to ensure students meet specific objectives and outcomes, emphasizing the measurement of student performance across various levels.
+Watch the full session here:Session 2
+## Session 3:
+## This session provides guidance on creating an OBE course file. It explores different assessment methods, attainment targets, and compares outcomes within a closed-loop process for continuous improvement.
+Watch the full session here:Session 3
+## Session 4:
+## This session is dedicated to establishing target levels for Course Outcomes (COs) and Program Outcomes (POs). It delves into strategies for scaling these outcomes using direct and indirect assessment methods, while also discussing the associated scaling factors. Additionally, the session highlights various publicly available resources from SP-IT designed to enhance teaching and learning for both students and faculty.
+Watch the full session here:Session 4
+1-CS_Cover_Page_Course_File
+2-Theory_Course_File_Index
+3-Lab_Course_File_Index
+4-CE203_CO attainment_Course_File
+5-CE203_Revised CAO_2024_25_syllabus
+6-CE_Vision Mission
+7-CS_Vision Mission
+8-EXTC_Vision Mission

@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+lxml
+pypdf
+pandas
+numpy
+tabulate
+faiss-cpu
+sentence-transformers
+rank-bm25
+# anthropic      # only if LLM_PROVIDER=anthropic
+openai         # only if LLM_PROVIDER=openai (OpenAI / Ollama / Groq / vLLM ...)
+jupyter
+nbformat

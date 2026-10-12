@@ -1,0 +1,35 @@
+## Deans «  Sardar Patel Institute of Technology
+## Deans
+The Deans lead the Institute’s academic, research, administrative and student-facing functions, working with the Principal to guide policy and day to day operations.
+Dr. Y.S. Rao
+Dean, Research Program
+Vice Principal
+ysrao@spit.ac.in
+Dr. Sudhir Dhage
+Dean, Administration
+Head of Department, Computer Engineering
+sudhir_dhage@spit.ac.in
+Dr. K.T. Talele
+Dean, Students, Alumni & External Relations
+Director, TBI
+kiran.talele@spit.ac.in
+Dr. Dhananjay Kalbande
+Dean, Quality Assurance
+Head of Department, Computer Science & Engineering
+drkalbande@spit.ac.in
+Dr. Reena Sonkusare
+Dean, Academics
+Head of Department, Electronics & Telecommunication
+reena_kumbhare@spit.ac.in
+Dr. R. R. Sawant
+Dean, Sponsored Research & Industrial Consultancy
+rajendra.sawant@spit.ac.in
+Dr. Deepak Karia
+Dean, Finance, Infrastructure & Resource Mobilization
+deepak_karia@spit.ac.in
+Dr. Dayanand Ambawade
+Dean, IT Infrastructure & Services
+dd_ambawade@spit.ac.in
+Dr. Sukanya Kulkarni
+Dean, Examinations and Evaluation
+sukanya_kulkarni@spit.ac.in

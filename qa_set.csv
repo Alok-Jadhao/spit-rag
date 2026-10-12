@@ -1,0 +1,10 @@
+qid,type,question,answerable,gold_answer,gold_source,gold_keywords,exp_c
+Q01,direct_factual,Where is Sardar Patel Institute of Technology located?,1,"Munshi Nagar, Andheri (West), Mumbai 400058",contact|about,Munshi Nagar;Andheri,1
+Q02,direct_factual,Which university is SPIT affiliated to?,1,University of Mumbai,about,Mumbai,1
+Q03,direct_factual,Which trust or society runs SPIT?,1,Bharatiya Vidya Bhavan,about,Bhavan,1
+Q04,direct_factual,Is SPIT an autonomous institute?,1,"Yes, SPIT is an (empowered) autonomous institute",about,autonomous,1
+Q26,unanswerable,What is the name of the head chef of the SPIT canteen?,0,,,,
+Q27,unanswerable,What is the salary of the SPIT Principal?,0,,,,
+Q28,unanswerable,How many students will be placed at Google in 2031?,0,,,,
+Q29,unanswerable,What is the Wi-Fi password of the SPIT campus network?,0,,,,
+Q30,unanswerable,Who won the SPIT inter-department cricket tournament in 1987?,0,,,,

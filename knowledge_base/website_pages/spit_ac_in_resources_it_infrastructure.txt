@@ -1,0 +1,23 @@
+## IT Infrastructure «  Sardar Patel Institute of Technology
+## IT Infrastructure
+Introduction
+In the era of digital revolution, advanced IT Infrastructure is a need of time for every academic institution. In view of this, institute has provided state of the art and well maintained IT Infrastructure to students and faculty members. This includes high-speed servers with large storage & processing power. Following is a brief description about the services that have been hosted on the servers.
+Wi-Fi
+The entire campus has been Wi-Fi enabled to provide mobility to the users in accessing various services available on institute’s network. This Wi-Fi network allows faculty, staff and students to log on to the Internet at any point of time. This wireless layer is placed on top of highly dense network with high level of security using username password based authentication.
+Storage
+S.P.I.T. has setup ownCloud, a file and document sharing utility similar to the popular Dropbox, for use by the S.P.I.T. staff. The utility supports storing and sharing of files, documents, contacts, calendar, tasks etc. It also supports version control and syncing with Windows/Linux/Mac desktops and Android and iOS based devices.
+NTP Server
+S.P.I.T has setup it’s own internal NTP server to keep it’s network devices & servers with the standard date & time. This timeserver also gets synchronized with external regional timeservers with time drift less than a few milliseconds.
+Moodle
+S.P.I.T. has hosted Moodle, public domain course management software, for use by faculty and students for the courses running in the current semester. All students and faculty members are periodically enrolled in various courses. Apart from online dissemination of course material, Moodle supports a host of other features for every course like news, blogs, discussion forums and facility for online submission of assignments and quizzes. Moodle at S.P.I.T. can be accessed at https://moodle.spit.ac.in
+DNS
+S.P.I.T. has it’s own DNS server for name resolution of it’s website & subdomains. All nodes connected within S.P.I.T. network use the DNS server for faster Internet browsing by caching the name resolution results of frequently visited websites.
+DSPACE Server (Digital Repository)
+All-important documents are available and hosted in digital format on a server named as DSPACE. This is a digital repository of all documents. This server runs on open source software. The documents can be searched easily using a keyword. The documents and data segregation, department wise, community wise, etc. is supported. This facilitates centralized data storage accessible from institution intranet. The facility is available at http://dspace.spit.ac.in:8081/jspui/ within S.P.I.T.
+Website
+Apropos to mandatory requirements of AICTE, college has informative website: https://www.spit.ac.in. The information on website is regularly updated. Students, faculty members and all stakeholders access website regularly. Apart from statutory information, website also hosts useful academic resources for students, such as exam papers, scheme and syllabus, NPTEL Videos, academic schedule, exam schedule, etc.
+Mail Server and Client
+The E-mail facility is managed through G Suite, which provides us web, based email client, and built in chat facility, Google Docs, Google Apps, Google Sites and few other facilities as well. Every faculty & student has an e-mail ID on spit.ac.in domain.
+Internet
+The Institute’s network is linked to the Internet via a set of dedicated leased lines enabling round-the-clock Internet connectivity on the campus. The Internet leased lines are availed from different service providers so that the provision of redundant ISPs is there in order to have seamless connectivity across the campus. All the Internet Service Providers (ISPs) from whom the Institute has procured Internet bandwidth have installed fibre optics link from the campus to their hub. This ensures very high quality of bandwidth to the Internet.
+The Institute has 1 GBPS bandwidth to the Internet. It is technologically equipped to increase it up to 2 GBPS as and when the need for more bandwidth arises. There is a dedicated Internet browsing centre within the library for students. This Internet browsing centre is open to students during all working hours and even beyond office hours in order to have access to information available on Internet as when required.
